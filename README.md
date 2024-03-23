@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Canberk Akar</h1>
 <h3 align="center">A passionate full-stack developer from Turkey.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canberkakar" alt="canberkakar" /></a> </p>
-
 - 🌱 I’m currently learning **Node.js,.Net, React.js and Data Science.**
 
-- 📫 How to reach me **akarcanberk@gmail.com **
+- 📫 How to reach me **akarcanberk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
