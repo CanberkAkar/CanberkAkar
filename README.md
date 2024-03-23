@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js,.Net, React.js and Data Science.**
 
-- 📫 How to reach me **akarcanberk@gmail.com or**
+- 📫 How to reach me **akarcanberk@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
